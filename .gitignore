@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Node
+node_modules/
+client/node_modules/
+client/dist/
+
+# Local env
+.env
+*.local
+
+# coverage
+coverage/
+*.coverage
